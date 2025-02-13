@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This is a simple Flappy Bird game implemented in Java using javax.swing and java.awt. The game features a day and night theme switch using buttons.
 
-Features
+**Features:-**
 
 Classic Flappy Bird gameplay.
 
